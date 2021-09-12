@@ -5,8 +5,6 @@ module.exports = merge(common, {
   mode: 'development',
   devtool: 'inline-source-map',
   devServer: {
-    contentBase: './build',
-    historyApiFallback: true,
     hot: true
   }
 });

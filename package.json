@@ -43,13 +43,15 @@
     "babel-loader": "^8.2.2",
     "clean-webpack-plugin": "^4.0.0-alpha.0",
     "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "gh-pages": "^3.2.3",
     "html-webpack-plugin": "^5.3.1",
     "node-sass": "^5.0.0",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
     "webpack": "^5.36.2",
     "webpack-cli": "^4.7.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^4.2.0"
   },
   "dependencies": {
     "react": "^17.0.2",
